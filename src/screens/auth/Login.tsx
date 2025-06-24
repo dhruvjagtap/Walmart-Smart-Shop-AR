@@ -7,6 +7,7 @@ import {
   Platform,
   TouchableOpacity,
   Alert,
+  ActivityIndicator,
 } from 'react-native';
 import React, { useState } from 'react';
 import Ionicons from 'react-native-vector-icons/Ionicons';
@@ -19,7 +20,9 @@ import firestore from '@react-native-firebase/firestore';
 type AuthStackParamList = {
   Home: undefined;
   SignUp: undefined;
+  BottomTabs: undefined;
 };
+
 export default function Login() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -32,8 +35,10 @@ export default function Login() {
 
     if (!email || !password) {
       Alert.alert('Please fill in all fields');
+      return;
     }
 
+    setLoading(true);
     try {
       const userCredential = await auth().signInWithEmailAndPassword(
         email,
@@ -41,12 +46,10 @@ export default function Login() {
       );
 
       const uid = userCredential.user.uid;
-
       const userDoc = await firestore().collection('users').doc(uid).get();
 
       if (!userDoc.exists) {
         Alert.alert('User data not found');
-        setLoading(false);
         return;
       }
 
@@ -57,15 +60,16 @@ export default function Login() {
           'Login Successful',
           `Welcome back, ${userCredential.user.displayName?.split(' ')[0]}`,
         );
-
-        navigation.replace('Home');
+        navigation.replace('BottomTabs');
       } else {
         Alert.alert('Access Denied', 'You are not authorized as a customer.');
-        await auth().signOut(); // Optional: Sign them out
+        await auth().signOut();
       }
     } catch (error: any) {
       console.log('Login error:', error);
       Alert.alert('Login Failed', error.message || 'Something went wrong.');
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -74,23 +78,27 @@ export default function Login() {
   };
 
   const handleForgetPassword = () => {
-    console.log('forget Password');
+    Alert.alert('Forgot Password functionality not implemented yet.');
   };
+
   return (
     <KeyboardAvoidingView
       style={styles.container}
-      behavior={Platform.OS == 'ios' ? 'padding' : undefined}
+      behavior={Platform.OS === 'ios' ? 'padding' : undefined}
     >
       <View style={styles.headingContainer}>
         <Text style={styles.heading}>Welcome to SmartShop AR</Text>
       </View>
+
       <TextInput
         placeholder="Email"
         value={email}
         keyboardType="email-address"
         onChangeText={setEmail}
         style={styles.input}
+        autoCapitalize="none"
       />
+
       <View style={styles.passwordContainer}>
         <TextInput
           placeholder="Password"
@@ -102,24 +110,27 @@ export default function Login() {
         <Ionicons
           name={showPassword ? 'eye-off' : 'eye'}
           size={20}
-          style={styles.icon}
           onPress={() => setShowPassword(!showPassword)}
+          style={styles.icon}
         />
       </View>
+
       <TouchableOpacity onPress={handleForgetPassword}>
-        <Text
-          style={{ color: '#fb8500', paddingHorizontal: 5, marginBottom: 30 }}
-        >
-          Forget Password
-        </Text>
+        <Text style={styles.forgotText}>Forgot Password?</Text>
       </TouchableOpacity>
+
       <View style={styles.buttonContainer}>
-        <Button title="Login" onPress={handleLogin} disabled={loading} />
+        {loading ? (
+          <ActivityIndicator size="large" color="#fb8500" />
+        ) : (
+          <Button title="Login" onPress={handleLogin} disabled={loading} />
+        )}
       </View>
+
       <TouchableOpacity style={styles.toggleContainer} onPress={toSignUp}>
         <Text style={styles.text}>
-          Don't have an account ?{' '}
-          <Text style={{ color: '#fb8500' }}>Sign Up</Text>{' '}
+          Don't have an account?{' '}
+          <Text style={{ color: '#fb8500' }}>Sign Up</Text>
         </Text>
       </TouchableOpacity>
     </KeyboardAvoidingView>
@@ -134,18 +145,15 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   headingContainer: {
-    width: '80%',
-    justifyContent: 'center',
-    alignContent: 'center',
+    marginBottom: 30,
+    alignItems: 'center',
   },
   heading: {
     fontWeight: '800',
     color: '#000000',
-    fontSize: 32,
-    marginBottom: 20,
-    alignSelf: 'center',
+    fontSize: 28,
+    textAlign: 'center',
   },
-
   input: {
     width: '100%',
     height: 50,
@@ -164,7 +172,6 @@ const styles = StyleSheet.create({
     marginBottom: 10,
     borderRadius: 10,
     flexDirection: 'row',
-    justifyContent: 'space-between',
     alignItems: 'center',
     paddingHorizontal: 15,
   },
@@ -172,21 +179,24 @@ const styles = StyleSheet.create({
     flex: 1,
     fontSize: 16,
   },
-  icon: {
-    color: '#dad7cd',
-    paddingHorizontal: 8,
+  forgotText: {
+    color: '#fb8500',
+    textAlign: 'right',
+    marginBottom: 30,
   },
   text: {
     color: '#8d99ae',
-    paddingHorizontal: 5,
-    marginBottom: 30,
+    marginTop: 20,
+    textAlign: 'center',
   },
   buttonContainer: {
-    width: '100%',
-    alignSelf: 'center',
-    paddingLeft: 50,
+    alignItems: 'center',
+    marginBottom: 10,
   },
   toggleContainer: {
     alignSelf: 'center',
+  },
+  icon: {
+    color: '#000',
   },
 });

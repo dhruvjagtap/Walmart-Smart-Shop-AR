@@ -23,6 +23,7 @@ import type { StackNavigationProp } from '@react-navigation/stack';
 type AuthStackParamList = {
   Login: undefined;
   Home: undefined;
+  BottomTabs: undefined;
 };
 
 const SignUpSchema = Yup.object().shape({
@@ -66,7 +67,7 @@ export default function SignUp() {
         { merge: true },
       );
 
-      navigation.replace('Home');
+      navigation.replace('BottomTabs');
     } catch (error: any) {
       console.log('Error creating account: ', error);
       if (error.code === 'auth/email-already-in-use') {
@@ -177,11 +178,13 @@ export default function SignUp() {
             {loading ? (
               <ActivityIndicator size="large" color="#fb8500" />
             ) : (
-              <Button
-                title="Sign Up"
-                onPress={handleSubmit as any}
-                disabled={loading}
-              />
+              <View style={{ alignContent: 'center' }}>
+                <Button
+                  title="Sign Up"
+                  onPress={handleSubmit as any}
+                  disabled={loading}
+                />
+              </View>
             )}
           </>
         )}

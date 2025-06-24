@@ -25,6 +25,8 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     elevation: 3,
     backgroundColor: '#fb8500',
+    justifyContent: 'center',
+    alignItems: 'center',
     marginBottom: 10,
   },
 
@@ -32,8 +34,6 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     fontSize: 20,
     color: 'white',
-    alignSelf: 'center',
-    marginTop: 10,
   },
   disabledButton: {
     backgroundColor: '#A9A9A9',
