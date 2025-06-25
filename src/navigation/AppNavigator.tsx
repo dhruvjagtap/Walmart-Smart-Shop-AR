@@ -48,9 +48,16 @@ export default function AppNavigator() {
   return (
     <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }}>
-        <Stack.Screen name="Login" component={Login} />
-        <Stack.Screen name="SignUp" component={SignUp} />
-        <Stack.Screen name="BottomTabs" component={BottomTabs} />
+        {!user ? (
+          // Auth Stack
+          <>
+            <Stack.Screen name="Login" component={Login} />
+            <Stack.Screen name="SignUp" component={SignUp} />
+          </>
+        ) : (
+          // Main App Stack
+          <Stack.Screen name="BottomTabs" component={BottomTabs} />
+        )}
       </Stack.Navigator>
     </NavigationContainer>
   );

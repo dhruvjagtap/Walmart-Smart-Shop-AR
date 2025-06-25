@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import {
   KeyboardAvoidingView,
   StyleSheet,
@@ -9,34 +10,32 @@ import {
   Alert,
   ActivityIndicator,
 } from 'react-native';
-import React, { useState } from 'react';
-import Ionicons from 'react-native-vector-icons/Ionicons';
-import Button from '../../components/Button';
-import type { StackNavigationProp } from '@react-navigation/stack';
 import { useNavigation } from '@react-navigation/native';
+import type { StackNavigationProp } from '@react-navigation/stack';
+import Ionicons from 'react-native-vector-icons/Ionicons';
+import { Formik } from 'formik';
+import * as Yup from 'yup';
 import auth from '@react-native-firebase/auth';
 import firestore from '@react-native-firebase/firestore';
+import CustomButton from '../../components/CustomButton';
 
 type AuthStackParamList = {
-  Home: undefined;
   SignUp: undefined;
   BottomTabs: undefined;
 };
 
+const LoginSchema = Yup.object().shape({
+  email: Yup.string().email('Invalid email').required('Email is required'),
+  password: Yup.string().required('Password is required'),
+});
+
 export default function Login() {
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
+  const navigation = useNavigation<StackNavigationProp<AuthStackParamList>>();
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
-  const navigation = useNavigation<StackNavigationProp<AuthStackParamList>>();
 
-  const handleLogin = async () => {
-    if (loading) return;
-
-    if (!email || !password) {
-      Alert.alert('Please fill in all fields');
-      return;
-    }
+  const handleLogin = async (values: { email: string; password: string }) => {
+    const { email, password } = values;
 
     setLoading(true);
     try {
@@ -44,7 +43,6 @@ export default function Login() {
         email,
         password,
       );
-
       const uid = userCredential.user.uid;
       const userDoc = await firestore().collection('users').doc(uid).get();
 
@@ -54,7 +52,6 @@ export default function Login() {
       }
 
       const userData = userDoc.data();
-
       if (userData?.role === 'customer') {
         Alert.alert(
           'Login Successful',
@@ -66,19 +63,10 @@ export default function Login() {
         await auth().signOut();
       }
     } catch (error: any) {
-      console.log('Login error:', error);
       Alert.alert('Login Failed', error.message || 'Something went wrong.');
     } finally {
       setLoading(false);
     }
-  };
-
-  const toSignUp = () => {
-    navigation.navigate('SignUp');
-  };
-
-  const handleForgetPassword = () => {
-    Alert.alert('Forgot Password functionality not implemented yet.');
   };
 
   return (
@@ -90,44 +78,75 @@ export default function Login() {
         <Text style={styles.heading}>Welcome to SmartShop AR</Text>
       </View>
 
-      <TextInput
-        placeholder="Email"
-        value={email}
-        keyboardType="email-address"
-        onChangeText={setEmail}
-        style={styles.input}
-        autoCapitalize="none"
-      />
+      <Formik
+        initialValues={{ email: '', password: '' }}
+        validationSchema={LoginSchema}
+        onSubmit={handleLogin}
+      >
+        {({
+          handleChange,
+          handleBlur,
+          handleSubmit,
+          values,
+          errors,
+          touched,
+        }) => (
+          <>
+            <TextInput
+              placeholder="Email"
+              style={styles.input}
+              keyboardType="email-address"
+              onChangeText={handleChange('email')}
+              onBlur={handleBlur('email')}
+              value={values.email}
+              autoCapitalize="none"
+            />
+            {touched.email && errors.email && (
+              <Text style={styles.error}>{errors.email}</Text>
+            )}
 
-      <View style={styles.passwordContainer}>
-        <TextInput
-          placeholder="Password"
-          secureTextEntry={!showPassword}
-          value={password}
-          onChangeText={setPassword}
-          style={styles.passwordInput}
-        />
-        <Ionicons
-          name={showPassword ? 'eye-off' : 'eye'}
-          size={20}
-          onPress={() => setShowPassword(!showPassword)}
-          style={styles.icon}
-        />
-      </View>
+            <View style={styles.passwordContainer}>
+              <TextInput
+                placeholder="Password"
+                secureTextEntry={!showPassword}
+                style={styles.passwordInput}
+                onChangeText={handleChange('password')}
+                onBlur={handleBlur('password')}
+                value={values.password}
+              />
+              <Ionicons
+                name={showPassword ? 'eye-off' : 'eye'}
+                size={20}
+                style={styles.icon}
+                onPress={() => setShowPassword(!showPassword)}
+              />
+            </View>
+            {touched.password && errors.password && (
+              <Text style={styles.error}>{errors.password}</Text>
+            )}
 
-      <TouchableOpacity onPress={handleForgetPassword}>
-        <Text style={styles.forgotText}>Forgot Password?</Text>
-      </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => Alert.alert('Forgot password coming soon!')}
+            >
+              <Text style={styles.forgotText}>Forgot Password?</Text>
+            </TouchableOpacity>
 
-      <View style={styles.buttonContainer}>
-        {loading ? (
-          <ActivityIndicator size="large" color="#fb8500" />
-        ) : (
-          <Button title="Login" onPress={handleLogin} disabled={loading} />
+            {loading ? (
+              <ActivityIndicator size="large" color="#fb8500" />
+            ) : (
+              <View style={styles.buttonContainer}>
+                <CustomButton
+                  title="Login"
+                  onPress={handleSubmit as any}
+                  disabled={loading}
+                />
+              </View>
+            )}
+          </>
         )}
-      </View>
+      </Formik>
 
-      <TouchableOpacity style={styles.toggleContainer} onPress={toSignUp}>
+      <TouchableOpacity onPress={() => navigation.navigate('SignUp')}>
         <Text style={styles.text}>
           Don't have an account?{' '}
           <Text style={{ color: '#fb8500' }}>Sign Up</Text>
@@ -198,5 +217,11 @@ const styles = StyleSheet.create({
   },
   icon: {
     color: '#000',
+  },
+  error: {
+    color: 'red',
+    fontSize: 14,
+    marginBottom: 10,
+    marginLeft: 5,
   },
 });
