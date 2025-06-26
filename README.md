@@ -138,13 +138,15 @@ _Coming soon… (Figma, mockups, and AR preview still in progress)_
 
 ## Team SmartShop
 
-- [Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/) – Lead Developer, UI/UX Design (React Native, Firebase, Shopping Flow Design)
+## 👥 Team SmartShop
+
+- [Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/) – React Native Developer, UI/UX Contributor (Firebase, Shopping Flow Design)
 
 - [Krushna Sonar](https://www.linkedin.com/in/krushna-sonar/) – AR & Voice Integration (ARKit, Google Speech)
 
 - [Pratham Tiwari](https://www.linkedin.com/in/pratham-tiwari/) – AR & Voice Integration (ARKit, Google Speech)
 
-- [Yashraj Kusale](https://www.linkedin.com/in/yashraj-kusale-731447289/) – AI/ML Integration (Recommendations, TensorFlow Lite)
+- [Yashraj Kusale](https://www.linkedin.com/in/yashraj-kusale-731447289/) – AI/ML Developer (Recommendations, TensorFlow Lite)
 
 ---
 
