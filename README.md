@@ -9,7 +9,7 @@ This project is currently in development for **Sparkathon 2025**, under the them
 
 ![Platform](https://img.shields.io/badge/platform-react--native-blue)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![License](https://img.shields.io/badge/license-TBD-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -29,13 +29,13 @@ This project is currently in development for **Sparkathon 2025**, under the them
 
 | Layer     | Tech Used                          |
 | --------- | ---------------------------------- |
-| Frontend  | React Native / Flutter             |
+| Frontend  | React Native                       |
 | AR Engine | ARCore / ARKit / Unity + Vuforia   |
 | Voice     | Google Speech API / OpenAI Whisper |
 | AI / ML   | TensorFlow Lite / Firebase ML      |
-| Backend   | Firebase / Node.js + MongoDB       |
+| Backend   | Firebase                           |
 | Auth      | Firebase Authentication            |
-| Storage   | Firestore / MongoDB Atlas          |
+| Storage   | Firestore                          |
 
 ---
 
@@ -62,3 +62,92 @@ npm start
 # or
 yarn start
 ```
+
+### 2. Run the App
+
+**Android**
+
+```sh
+npm run android
+# or
+yarn android
+```
+
+**iOS (macOS only)**
+
+```sh
+bundle install
+bundle exec pod install
+npm run ios
+# or
+yarn ios
+```
+
+### 3. Modify Your App
+
+Edit `App.tsx` and save to see instant updates via Fast Refresh.
+
+---
+
+## Roadmap
+
+| Phase | Feature Set                                | Duration  |
+| ----- | ------------------------------------------ | --------- |
+| 1     | MVP – Auth, AR, Voice, Basic UI            | 7–10 days |
+| 2     | Personalization & Recommendation Models    | 5 days    |
+| 3     | Gamification & Eco Wallet                  | 5 days    |
+| 4     | UI Polish, Testing, and Edge Case Handling | 3 days    |
+
+**Total Estimate**: ~2.5 to 3 weeks with a 2–3 member team
+
+**Hackathon Deliverable Timeframe**: ~5–7 days for functional MVP
+
+---
+
+## Use Cases
+
+- 👨‍👩‍👧 Busy Parent: Uses voice + AR to quickly locate items with a child in tow
+- 🎓 Budget Student: Filters best deals by price & location
+- 🌍 Eco-Conscious Shopper: Avoids plastic-packaged products & tracks impact
+
+---
+
+## Monetization Ideas (Optional)
+
+Since you're considering startup plans, here are optional monetization strategies you can add later:
+
+- 🧾 **Retail Partnerships** – Offer targeted product promotions
+- 📊 **Analytics Dashboard for Stores** – Foot traffic insights
+- 🌱 **Green Loyalty Rewards** – Points for eco-conscious habits
+- 🛍️ **Premium Smart Lists** – Subscription-based personalization
+
+---
+
+## 📝 Devlog
+
+Check out progress updates in the [`/devlogs`](./devlogs) folder.  
+You can also follow along on [LinkedIn – Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/).
+
+---
+
+## 📷 Demo Screenshots
+
+_Coming soon… (Figma, mockups, and AR preview still in progress)_
+
+---
+
+## Team SmartShop
+
+- [Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/) – Lead Developer, UI/UX Design (React Native, Firebase, Shopping Flow Design)
+
+- [Krushna Sonar](https://www.linkedin.com/in/krushna-sonar/) – AR & Voice Integration (ARKit, Google Speech)
+
+- [Pratham Tiwari](https://www.linkedin.com/in/pratham-tiwari/) – AR & Voice Integration (ARKit, Google Speech)
+
+- [Yashraj Kusale](https://www.linkedin.com/in/yashraj-kusale-731447289/) – AI/ML Integration (Recommendations, TensorFlow Lite)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
