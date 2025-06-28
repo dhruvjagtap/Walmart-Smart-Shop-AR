@@ -3,7 +3,12 @@ import { View, StyleSheet, Text, Image, TouchableOpacity } from 'react-native';
 import auth from '@react-native-firebase/auth';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 
-export default function TopBar() {
+interface TopBarProps {
+  showGreeting: boolean;
+  title?: string;
+}
+
+export default function TopBar({ showGreeting, title }: TopBarProps) {
   const [userName, setUserName] = useState<string>('Shopper');
 
   useEffect(() => {
@@ -15,10 +20,12 @@ export default function TopBar() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.greetingText}>Hi, {userName}</Text>
+      <Text style={showGreeting ? styles.greetingText : styles.title}>
+        {showGreeting ? `Hi, ${userName}` : title || 'Welcome to the App'}
+      </Text>
       <View style={styles.rightSection}>
         <FontAwesome
-          name="bell"
+          name="bell-o"
           size={24}
           color="#fb8500"
           style={styles.icon}
@@ -69,5 +76,10 @@ const styles = StyleSheet.create({
     width: 40,
     height: 40,
     borderRadius: 20,
+  },
+  title: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: '#000',
   },
 });

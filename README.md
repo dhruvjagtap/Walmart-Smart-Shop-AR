@@ -138,11 +138,9 @@ _Coming soon… (Figma, mockups, and AR preview still in progress)_
 
 ## Team SmartShop
 
-## 👥 Team SmartShop
-
 - [Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/) – React Native Developer, UI/UX Contributor (Firebase, Shopping Flow Design)
 
-- [Krushna Sonar](https://www.linkedin.com/in/krushna-sonar/) – AR & Voice Integration (ARKit, Google Speech)
+- [Krushna Sonar](https://www.linkedin.com/in/krushna-sonar-3b5423279/) – AR & Voice Integration (ARKit, Google Speech)
 
 - [Pratham Tiwari](https://www.linkedin.com/in/pratham-tiwari/) – AR & Voice Integration (ARKit, Google Speech)
 

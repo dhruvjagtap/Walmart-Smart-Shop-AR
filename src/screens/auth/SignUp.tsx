@@ -18,7 +18,6 @@ import firestore from '@react-native-firebase/firestore';
 import CustomButton from '../../components/CustomButton';
 import { useNavigation } from '@react-navigation/native';
 import type { StackNavigationProp } from '@react-navigation/stack';
-// import { Ionicons } from '@expo/vector-icons';
 
 type AuthStackParamList = {
   Login: undefined;

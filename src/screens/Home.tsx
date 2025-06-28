@@ -26,7 +26,7 @@ export default function Home() {
 
   return (
     <View style={{ flex: 1, backgroundColor: '#fff' }}>
-      <TopBar />
+      <TopBar showGreeting={true} />
       <View style={styles.container}>
         <Text style={styles.title}>Your Shopping Hub</Text>
         {/* Shopping List Card */}
