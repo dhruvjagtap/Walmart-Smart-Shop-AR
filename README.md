@@ -48,7 +48,7 @@ This project is currently in development for **Sparkathon 2025**, under the them
 - [ ] AR Navigation MVP
 - [ ] Smart Deal Filter UI
 - [ ] Voice Command Integration
-- [ ] Eco Wallet Mock & Logic
+- [x] Eco Wallet Mock & Logic
 - [ ] Shopping List Sorting Algorithm
 
 ---
