@@ -21,7 +21,8 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import auth from '@react-native-firebase/auth';
 import firestore from '@react-native-firebase/firestore';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { ScrollView } from 'react-native-gesture-handler';
+
+// import { ScrollView } from 'react-native-gesture-handler';
 
 type Product = {
   id: string;
@@ -40,9 +41,13 @@ type Product = {
 };
 
 type ProductItem = {
+  id?: string;
   name: string;
+  brand?: string;
   price: number;
   checked: boolean;
+  isEcoFriendly?: boolean;
+  ecoScore?: string;
 };
 
 export default function ShopList() {
@@ -58,6 +63,7 @@ export default function ShopList() {
   const [allProducts, setAllProducts] = useState<Product[]>([]);
   const [filteredSuggestions, setFilteredSuggestions] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
+  
 
   const user = auth().currentUser;
 
@@ -129,10 +135,14 @@ export default function ShopList() {
     );
     if (already) return Alert.alert('Already in list');
 
-    const newItem = {
+    const newItem: ProductItem = {
+      id: product.id,
       name: product.name,
+      brand: product.brand,
       price: product.salePrice || product.price,
       checked: false,
+      isEcoFriendly: product.isEcoFriendly ?? false,
+      ecoScore: product.ecoScore ?? 'F',
     };
 
     setLists(prev => ({
@@ -219,7 +229,7 @@ export default function ShopList() {
   if (loading) {
     return (
       <SafeAreaView style={styles.centered}>
-        <ActivityIndicator size="large" color="#3a86ff" />
+        <ActivityIndicator size="large" color="#fb8500" />
       </SafeAreaView>
     );
   }
