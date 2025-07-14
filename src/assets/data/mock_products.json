@@ -1,0 +1,2196 @@
+[
+  {
+    "id": "YAXOR0U4",
+    "name": "Colgate Chicken 1 Pack",
+    "brand": "Colgate",
+    "price": 29.97,
+    "salePrice": 25.91,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "E1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Gluten-Free",
+      "Vegan"
+    ],
+    "description": "Colgate Chicken 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "Z0GWVK8F",
+      "JJISKB2H",
+      "MCA1U06N"
+    ]
+  },
+  {
+    "id": "DSZJZMAA",
+    "name": "Lays Pasta 2 Pack",
+    "brand": "Lays",
+    "price": 39.51,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "D3",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Lays Pasta 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9CWO1D3K",
+      "6YG0WD1P",
+      "KFEGK9WE"
+    ]
+  },
+  {
+    "id": "T76TJIHH",
+    "name": "Heinz Pasta 1 Pack",
+    "brand": "Heinz",
+    "price": 21.8,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "C1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Gluten-Free",
+      "Non-GMO",
+      "Cruelty-Free"
+    ],
+    "description": "Heinz Pasta 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KFEGK9WE",
+      "6LF7IZ65",
+      "4FIT3JI3"
+    ]
+  },
+  {
+    "id": "6XY6UERQ",
+    "name": "Dove Chips 5 Pack",
+    "brand": "Dove",
+    "price": 46.01,
+    "salePrice": 25.38,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "C3",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Gluten-Free",
+      "Organic",
+      "Non-GMO"
+    ],
+    "description": "Dove Chips 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "QO0ZJJFK",
+      "BQPDPOF4",
+      "RRHYREID"
+    ]
+  },
+  {
+    "id": "8P8GNTG9",
+    "name": "Dove Cleaner 5 Pack",
+    "brand": "Dove",
+    "price": 4.21,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "B5",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Gluten-Free",
+      "Non-GMO",
+      "Organic"
+    ],
+    "description": "Dove Cleaner 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "NQDXREGG",
+      "GJLDAQGT",
+      "51DV4TO0"
+    ]
+  },
+  {
+    "id": "KZOFARDD",
+    "name": "Tide Chicken 2 Pack",
+    "brand": "Tide",
+    "price": 25.09,
+    "salePrice": null,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "D5",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Tide Chicken 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "BED7ZGBQ",
+      "NLEVVO9Q",
+      "GJLDAQGT"
+    ]
+  },
+  {
+    "id": "51DV4TO0",
+    "name": "Ben & Jerry's Chicken 1 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 2.85,
+    "salePrice": 1.49,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "D2",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Ben & Jerry's Chicken 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "CE0I6AGO",
+      "W49AR395",
+      "E7E8Z3QO"
+    ]
+  },
+  {
+    "id": "RWYIH89E",
+    "name": "Heinz Soda 5 Pack",
+    "brand": "Heinz",
+    "price": 25.31,
+    "salePrice": 10.59,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "A3",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Heinz Soda 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9CWO1D3K",
+      "BED7ZGBQ",
+      "JU3T93GW"
+    ]
+  },
+  {
+    "id": "3M8VDDKQ",
+    "name": "Dove Pasta 3 Pack",
+    "brand": "Dove",
+    "price": 33.26,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "A1",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Recyclable",
+      "Vegan"
+    ],
+    "description": "Dove Pasta 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "0XT8KCDG",
+      "QYELIUK0",
+      "VDBIC36Q"
+    ]
+  },
+  {
+    "id": "KA2QRXLC",
+    "name": "Colgate Pasta 2 Pack",
+    "brand": "Colgate",
+    "price": 41.81,
+    "salePrice": 11.55,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "B2",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "description": "Colgate Pasta 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "IEH5S73E",
+      "I3NIFJLP"
+    ]
+  },
+  {
+    "id": "I3NIFJLP",
+    "name": "Colgate Cleaner 1 Pack",
+    "brand": "Colgate",
+    "price": 28.3,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "D4",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Organic",
+      "Gluten-Free"
+    ],
+    "description": "Colgate Cleaner 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KYG1MET0",
+      "Z0GWVK8F",
+      "7TUHQ854"
+    ]
+  },
+  {
+    "id": "UJSUT6F9",
+    "name": "Colgate Soda 1 Pack",
+    "brand": "Colgate",
+    "price": 46.9,
+    "salePrice": 45.98,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "A1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Colgate Soda 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9GAS8FZ8",
+      "RRHYREID",
+      "0Y4JBR22"
+    ]
+  },
+  {
+    "id": "H8V5U3GZ",
+    "name": "Ben & Jerry's Pasta 2 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 14.81,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "D2",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Non-GMO"
+    ],
+    "description": "Ben & Jerry's Pasta 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "HC1YH70C",
+      "6XY6UERQ",
+      "F0SHJZJF"
+    ]
+  },
+  {
+    "id": "9GAS8FZ8",
+    "name": "Great Value Shampoo 3 Pack",
+    "brand": "Great Value",
+    "price": 24.85,
+    "salePrice": 7.91,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "E1",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Organic",
+      "Non-GMO",
+      "Recyclable"
+    ],
+    "description": "Great Value Shampoo 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "TXTFOWIH",
+      "QO0ZJJFK",
+      "HNQSZ6HV"
+    ]
+  },
+  {
+    "id": "UQ2D7L9N",
+    "name": "Colgate Bread 4 Pack",
+    "brand": "Colgate",
+    "price": 24.79,
+    "salePrice": 15.4,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "E2",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Recyclable",
+      "Non-GMO"
+    ],
+    "description": "Colgate Bread 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XL2W9S9W",
+      "W49AR395",
+      "5N8VZF21"
+    ]
+  },
+  {
+    "id": "BQPDPOF4",
+    "name": "Nature's Promise Milk 3 Pack",
+    "brand": "Nature's Promise",
+    "price": 24.53,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "E4",
+    "isEcoFriendly": false,
+    "ecoScore": "C",
+    "tags": [
+      "Gluten-Free",
+      "Cruelty-Free"
+    ],
+    "description": "Nature's Promise Milk 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "HH3GFKA7",
+      "NQDXREGG",
+      "25UG1O07"
+    ]
+  },
+  {
+    "id": "XFJCF00L",
+    "name": "Great Value Shampoo 2 Pack",
+    "brand": "Great Value",
+    "price": 3.38,
+    "salePrice": null,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "D1",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Non-GMO",
+      "Cruelty-Free"
+    ],
+    "description": "Great Value Shampoo 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "E7E8Z3QO",
+      "3M8VDDKQ",
+      "7JW3GPEW"
+    ]
+  },
+  {
+    "id": "6YG0WD1P",
+    "name": "Great Value Milk 4 Pack",
+    "brand": "Great Value",
+    "price": 19.16,
+    "salePrice": 18.2,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "B1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Gluten-Free"
+    ],
+    "description": "Great Value Milk 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "D2KV5TB2",
+      "TUZ5YCB8",
+      "9CWO1D3K"
+    ]
+  },
+  {
+    "id": "6LF7IZ65",
+    "name": "Ben & Jerry's Pasta 5 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 32.97,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "C2",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Ben & Jerry's Pasta 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "NVH0SS01",
+      "HC1YH70C",
+      "9GAS8FZ8"
+    ]
+  },
+  {
+    "id": "22R3IODY",
+    "name": "Colgate Cleaner 5 Pack",
+    "brand": "Colgate",
+    "price": 17.71,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "E5",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Organic",
+      "Recyclable"
+    ],
+    "description": "Colgate Cleaner 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9CWO1D3K",
+      "JJZQQN8T",
+      "BQPDPOF4"
+    ]
+  },
+  {
+    "id": "XL2W9S9W",
+    "name": "Heinz Bread 1 Pack",
+    "brand": "Heinz",
+    "price": 32.66,
+    "salePrice": null,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "C3",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Gluten-Free",
+      "Organic"
+    ],
+    "description": "Heinz Bread 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "F0SHJZJF",
+      "F5Q5X6JR",
+      "KFEGK9WE"
+    ]
+  },
+  {
+    "id": "0XIN93HL",
+    "name": "Lays Pasta 3 Pack",
+    "brand": "Lays",
+    "price": 2.95,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "C3",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Organic",
+      "Cruelty-Free"
+    ],
+    "description": "Lays Pasta 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "6YM2APUX",
+      "7JW3GPEW",
+      "NQDXREGG"
+    ]
+  },
+  {
+    "id": "JJZQQN8T",
+    "name": "Tide Cleaner 4 Pack",
+    "brand": "Tide",
+    "price": 38.32,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "E1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Vegan"
+    ],
+    "description": "Tide Cleaner 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9CWO1D3K",
+      "XL2W9S9W",
+      "4FIT3JI3"
+    ]
+  },
+  {
+    "id": "RWH0Q275",
+    "name": "Colgate Bread 2 Pack",
+    "brand": "Colgate",
+    "price": 29.45,
+    "salePrice": null,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "E2",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Non-GMO"
+    ],
+    "description": "Colgate Bread 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "4FIT3JI3",
+      "HNQSZ6HV",
+      "XFJCF00L"
+    ]
+  },
+  {
+    "id": "9JVGZ0NS",
+    "name": "Dove Shampoo 3 Pack",
+    "brand": "Dove",
+    "price": 20.91,
+    "salePrice": 17.75,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "B1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Non-GMO",
+      "Cruelty-Free"
+    ],
+    "description": "Dove Shampoo 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "HNQSZ6HV",
+      "6DXKH7HW",
+      "25UG1O07"
+    ]
+  },
+  {
+    "id": "QU5E8BKR",
+    "name": "Lays Soda 2 Pack",
+    "brand": "Lays",
+    "price": 24.66,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "C1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Organic",
+      "Gluten-Free",
+      "Non-GMO"
+    ],
+    "description": "Lays Soda 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "RWH0Q275",
+      "TXTFOWIH",
+      "26SKLN2S"
+    ]
+  },
+  {
+    "id": "HC1YH70C",
+    "name": "Colgate Shampoo 3 Pack",
+    "brand": "Colgate",
+    "price": 18.01,
+    "salePrice": 16.49,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "B1",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Vegan",
+      "Organic",
+      "Non-GMO"
+    ],
+    "description": "Colgate Shampoo 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XFJCF00L",
+      "D2KV5TB2",
+      "RRHYREID"
+    ]
+  },
+  {
+    "id": "9CWO1D3K",
+    "name": "Lays Pasta 1 Pack",
+    "brand": "Lays",
+    "price": 23.63,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "A1",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Lays Pasta 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "8P8GNTG9",
+      "9GAS8FZ8",
+      "KA2QRXLC"
+    ]
+  },
+  {
+    "id": "IEH5S73E",
+    "name": "Colgate Fruits 5 Pack",
+    "brand": "Colgate",
+    "price": 8.43,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "A2",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Organic",
+      "Cruelty-Free",
+      "Non-GMO"
+    ],
+    "description": "Colgate Fruits 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "824IP9OV",
+      "9W3V9STO",
+      "0XWVWUPF"
+    ]
+  },
+  {
+    "id": "F5Q5X6JR",
+    "name": "Colgate Milk 3 Pack",
+    "brand": "Colgate",
+    "price": 46.9,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "B1",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Colgate Milk 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "Y5C6T7ST",
+      "IEH5S73E",
+      "4FIT3JI3"
+    ]
+  },
+  {
+    "id": "0INB7205",
+    "name": "Lays Milk 5 Pack",
+    "brand": "Lays",
+    "price": 33.11,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Lays Milk 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "5N8VZF21",
+      "9CWO1D3K",
+      "51DV4TO0"
+    ]
+  },
+  {
+    "id": "SUT9T9IY",
+    "name": "Tide Fruits 3 Pack",
+    "brand": "Tide",
+    "price": 9.8,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "A3",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Recyclable"
+    ],
+    "description": "Tide Fruits 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "JJZQQN8T",
+      "YOA7DZCM",
+      "HC1YH70C"
+    ]
+  },
+  {
+    "id": "NVH0SS01",
+    "name": "Coca-Cola Cleaner 4 Pack",
+    "brand": "Coca-Cola",
+    "price": 10.0,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "E5",
+    "isEcoFriendly": false,
+    "ecoScore": "C",
+    "tags": [
+      "Vegan",
+      "Non-GMO",
+      "Organic"
+    ],
+    "description": "Coca-Cola Cleaner 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "P4Y67BPH",
+      "JU74T5XS",
+      "BED7ZGBQ"
+    ]
+  },
+  {
+    "id": "E7E8Z3QO",
+    "name": "Great Value Cleaner 4 Pack",
+    "brand": "Great Value",
+    "price": 36.48,
+    "salePrice": 9.94,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "B5",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Non-GMO",
+      "Organic",
+      "Recyclable"
+    ],
+    "description": "Great Value Cleaner 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "26SKLN2S",
+      "I3NIFJLP",
+      "BED7ZGBQ"
+    ]
+  },
+  {
+    "id": "TUZ5YCB8",
+    "name": "Dove Cleaner 5 Pack",
+    "brand": "Dove",
+    "price": 27.18,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "D3",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Gluten-Free",
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Dove Cleaner 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "W49AR395",
+      "KA2QRXLC",
+      "Y5C6T7ST"
+    ]
+  },
+  {
+    "id": "CE0I6AGO",
+    "name": "Coca-Cola Milk 5 Pack",
+    "brand": "Coca-Cola",
+    "price": 9.38,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "B5",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Gluten-Free",
+      "Recyclable"
+    ],
+    "description": "Coca-Cola Milk 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "D2KV5TB2",
+      "F0G0U9OT",
+      "XD80JXYX"
+    ]
+  },
+  {
+    "id": "F0G0U9OT",
+    "name": "Tide Chicken 1 Pack",
+    "brand": "Tide",
+    "price": 18.65,
+    "salePrice": null,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "E5",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Cruelty-Free",
+      "Non-GMO"
+    ],
+    "description": "Tide Chicken 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "W49AR395",
+      "KFEGK9WE",
+      "JJZQQN8T"
+    ]
+  },
+  {
+    "id": "OIR0TNRH",
+    "name": "Great Value Fruits 5 Pack",
+    "brand": "Great Value",
+    "price": 42.94,
+    "salePrice": 25.39,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "C1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Vegan",
+      "Cruelty-Free"
+    ],
+    "description": "Great Value Fruits 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XWSFWGWO",
+      "KN7BO9GG",
+      "3M8VDDKQ"
+    ]
+  },
+  {
+    "id": "4FIT3JI3",
+    "name": "Coca-Cola Milk 4 Pack",
+    "brand": "Coca-Cola",
+    "price": 6.82,
+    "salePrice": 4.24,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "E2",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Coca-Cola Milk 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "5N8VZF21",
+      "6DXKH7HW",
+      "GJLDAQGT"
+    ]
+  },
+  {
+    "id": "HH3GFKA7",
+    "name": "Great Value Ice Cream 2 Pack",
+    "brand": "Great Value",
+    "price": 41.27,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "E4",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Vegan",
+      "Cruelty-Free"
+    ],
+    "description": "Great Value Ice Cream 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "H5BQNGMY",
+      "NLEVVO9Q",
+      "7EOUZSF0"
+    ]
+  },
+  {
+    "id": "KFEGK9WE",
+    "name": "Ben & Jerry's Fruits 5 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 34.76,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D5",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Recyclable"
+    ],
+    "description": "Ben & Jerry's Fruits 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "TUZ5YCB8",
+      "0XIN93HL",
+      "1ARZIAI8"
+    ]
+  },
+  {
+    "id": "KBENSPHV",
+    "name": "Dove Bread 2 Pack",
+    "brand": "Dove",
+    "price": 30.54,
+    "salePrice": 2.23,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "C4",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Organic",
+      "Gluten-Free"
+    ],
+    "description": "Dove Bread 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "6YM2APUX",
+      "YOA7DZCM"
+    ]
+  },
+  {
+    "id": "QYELIUK0",
+    "name": "Great Value Cleaner 3 Pack",
+    "brand": "Great Value",
+    "price": 43.5,
+    "salePrice": 33.77,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "D3",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Great Value Cleaner 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "I3NIFJLP",
+      "824IP9OV",
+      "6YM2APUX"
+    ]
+  },
+  {
+    "id": "6DXKH7HW",
+    "name": "Nestl\u00e9 Pasta 4 Pack",
+    "brand": "Nestl\u00e9",
+    "price": 5.22,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "B5",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Nestl\u00e9 Pasta 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "4FIT3JI3",
+      "NQDXREGG",
+      "RWYIH89E"
+    ]
+  },
+  {
+    "id": "XWSFWGWO",
+    "name": "Lays Ice Cream 1 Pack",
+    "brand": "Lays",
+    "price": 39.43,
+    "salePrice": 16.56,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "B1",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Vegan",
+      "Non-GMO",
+      "Gluten-Free"
+    ],
+    "description": "Lays Ice Cream 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "ED5H45XB",
+      "OAXSYDZ5",
+      "QBGQAYVA"
+    ]
+  },
+  {
+    "id": "7JW3GPEW",
+    "name": "Great Value Ice Cream 4 Pack",
+    "brand": "Great Value",
+    "price": 24.04,
+    "salePrice": 5.91,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "D4",
+    "isEcoFriendly": false,
+    "ecoScore": "C",
+    "tags": [
+      "Vegan",
+      "Recyclable",
+      "Organic"
+    ],
+    "description": "Great Value Ice Cream 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "CE0I6AGO",
+      "YAXOR0U4",
+      "QYELIUK0"
+    ]
+  },
+  {
+    "id": "KBTY2BZG",
+    "name": "Ben & Jerry's Fruits 4 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 48.54,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D1",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Recyclable"
+    ],
+    "description": "Ben & Jerry's Fruits 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7KUUGKAP",
+      "0XT8KCDG",
+      "JU3T93GW"
+    ]
+  },
+  {
+    "id": "R6YLSQKQ",
+    "name": "Nestl\u00e9 Chips 2 Pack",
+    "brand": "Nestl\u00e9",
+    "price": 11.84,
+    "salePrice": 6.58,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "C1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Cruelty-Free"
+    ],
+    "description": "Nestl\u00e9 Chips 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "A53T1ZPJ",
+      "9GAS8FZ8",
+      "RWYIH89E"
+    ]
+  },
+  {
+    "id": "0XWVWUPF",
+    "name": "Ben & Jerry's Fruits 2 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 7.23,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "E2",
+    "isEcoFriendly": false,
+    "ecoScore": "C",
+    "tags": [
+      "Cruelty-Free",
+      "Recyclable",
+      "Organic"
+    ],
+    "description": "Ben & Jerry's Fruits 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "JU74T5XS",
+      "7JW3GPEW"
+    ]
+  },
+  {
+    "id": "QO0ZJJFK",
+    "name": "Great Value Soda 2 Pack",
+    "brand": "Great Value",
+    "price": 32.04,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "B5",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Recyclable",
+      "Non-GMO"
+    ],
+    "description": "Great Value Soda 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "YAXOR0U4",
+      "M644UQS9",
+      "6LF7IZ65"
+    ]
+  },
+  {
+    "id": "XD80JXYX",
+    "name": "Dove Shampoo 1 Pack",
+    "brand": "Dove",
+    "price": 13.88,
+    "salePrice": null,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "C4",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Dove Shampoo 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "A53T1ZPJ",
+      "JJZQQN8T",
+      "F0SHJZJF"
+    ]
+  },
+  {
+    "id": "MCA1U06N",
+    "name": "Nestl\u00e9 Ice Cream 4 Pack",
+    "brand": "Nestl\u00e9",
+    "price": 23.13,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "B3",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Organic",
+      "Vegan",
+      "Gluten-Free"
+    ],
+    "description": "Nestl\u00e9 Ice Cream 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "M644UQS9",
+      "6XY6UERQ",
+      "ARQEJK29"
+    ]
+  },
+  {
+    "id": "TXTFOWIH",
+    "name": "Colgate Soda 2 Pack",
+    "brand": "Colgate",
+    "price": 7.28,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Colgate Soda 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "GJLDAQGT",
+      "T76TJIHH",
+      "7EOUZSF0"
+    ]
+  },
+  {
+    "id": "HNQSZ6HV",
+    "name": "Dove Fruits 1 Pack",
+    "brand": "Dove",
+    "price": 26.31,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D3",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Dove Fruits 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XWSFWGWO",
+      "NVH0SS01",
+      "XL2W9S9W"
+    ]
+  },
+  {
+    "id": "H5BQNGMY",
+    "name": "Lays Bread 5 Pack",
+    "brand": "Lays",
+    "price": 26.13,
+    "salePrice": null,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "A1",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Lays Bread 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "I3NIFJLP",
+      "BED7ZGBQ",
+      "51DV4TO0"
+    ]
+  },
+  {
+    "id": "VDBIC36Q",
+    "name": "Tide Ice Cream 2 Pack",
+    "brand": "Tide",
+    "price": 23.03,
+    "salePrice": 10.72,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "B1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Tide Ice Cream 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "0XIN93HL",
+      "JU3T93GW",
+      "D2KV5TB2"
+    ]
+  },
+  {
+    "id": "CPRLOXW2",
+    "name": "Great Value Chips 1 Pack",
+    "brand": "Great Value",
+    "price": 46.23,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Recyclable",
+      "Gluten-Free",
+      "Organic"
+    ],
+    "description": "Great Value Chips 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "IEH5S73E",
+      "KBTY2BZG",
+      "9W3V9STO"
+    ]
+  },
+  {
+    "id": "1ARZIAI8",
+    "name": "Lays Fruits 2 Pack",
+    "brand": "Lays",
+    "price": 8.37,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D2",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Lays Fruits 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "E7E8Z3QO",
+      "6LF7IZ65",
+      "51DV4TO0"
+    ]
+  },
+  {
+    "id": "KN7BO9GG",
+    "name": "Lays Chips 5 Pack",
+    "brand": "Lays",
+    "price": 19.2,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "A1",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Vegan",
+      "Cruelty-Free",
+      "Non-GMO"
+    ],
+    "description": "Lays Chips 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KA2QRXLC",
+      "D2KV5TB2",
+      "RRHYREID"
+    ]
+  },
+  {
+    "id": "ARQEJK29",
+    "name": "Coca-Cola Ice Cream 1 Pack",
+    "brand": "Coca-Cola",
+    "price": 40.32,
+    "salePrice": 32.61,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "D3",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Coca-Cola Ice Cream 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "P4Y67BPH",
+      "W49AR395",
+      "QYELIUK0"
+    ]
+  },
+  {
+    "id": "7EOUZSF0",
+    "name": "Dove Shampoo 1 Pack",
+    "brand": "Dove",
+    "price": 38.88,
+    "salePrice": null,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "D1",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Dove Shampoo 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XD80JXYX",
+      "9CWO1D3K",
+      "KFEGK9WE"
+    ]
+  },
+  {
+    "id": "GJLDAQGT",
+    "name": "Tide Chicken 5 Pack",
+    "brand": "Tide",
+    "price": 8.16,
+    "salePrice": null,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "B3",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Cruelty-Free",
+      "Non-GMO",
+      "Organic"
+    ],
+    "description": "Tide Chicken 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "A53T1ZPJ",
+      "6DXKH7HW",
+      "O833VZGC"
+    ]
+  },
+  {
+    "id": "Y5C6T7ST",
+    "name": "Lays Cleaner 3 Pack",
+    "brand": "Lays",
+    "price": 33.19,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "B3",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Non-GMO",
+      "Gluten-Free"
+    ],
+    "description": "Lays Cleaner 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XWSFWGWO",
+      "UJSUT6F9",
+      "QYELIUK0"
+    ]
+  },
+  {
+    "id": "7TUHQ854",
+    "name": "Nature's Promise Ice Cream 3 Pack",
+    "brand": "Nature's Promise",
+    "price": 8.46,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "D2",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Vegan",
+      "Non-GMO",
+      "Gluten-Free"
+    ],
+    "description": "Nature's Promise Ice Cream 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "IEH5S73E",
+      "9JVGZ0NS"
+    ]
+  },
+  {
+    "id": "BJDZUG3Z",
+    "name": "Nature's Promise Pasta 4 Pack",
+    "brand": "Nature's Promise",
+    "price": 5.3,
+    "salePrice": 1.35,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Vegan",
+      "Non-GMO"
+    ],
+    "description": "Nature's Promise Pasta 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "ED5H45XB",
+      "3M8VDDKQ",
+      "QU5E8BKR"
+    ]
+  },
+  {
+    "id": "QBGQAYVA",
+    "name": "Coca-Cola Chips 4 Pack",
+    "brand": "Coca-Cola",
+    "price": 44.08,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "B1",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Non-GMO"
+    ],
+    "description": "Coca-Cola Chips 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "8P8GNTG9",
+      "BED7ZGBQ",
+      "XWSFWGWO"
+    ]
+  },
+  {
+    "id": "KYG1MET0",
+    "name": "Colgate Pasta 1 Pack",
+    "brand": "Colgate",
+    "price": 18.36,
+    "salePrice": null,
+    "categoryPath": "Grocery > Pantry > Pasta",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Pasta",
+    "aisle": "A1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable",
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Colgate Pasta 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "0XT8KCDG",
+      "BED7ZGBQ",
+      "KFEGK9WE"
+    ]
+  },
+  {
+    "id": "48UHL1I0",
+    "name": "Ben & Jerry's Fruits 4 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 11.47,
+    "salePrice": 8.32,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D4",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Recyclable",
+      "Non-GMO"
+    ],
+    "description": "Ben & Jerry's Fruits 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "IEH5S73E",
+      "KBENSPHV",
+      "YAXOR0U4"
+    ]
+  },
+  {
+    "id": "NLEVVO9Q",
+    "name": "Ben & Jerry's Bread 1 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 41.84,
+    "salePrice": null,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "B2",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Recyclable",
+      "Cruelty-Free"
+    ],
+    "description": "Ben & Jerry's Bread 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "IEH5S73E",
+      "Y5C6T7ST",
+      "0XIN93HL"
+    ]
+  },
+  {
+    "id": "JU74T5XS",
+    "name": "Nestl\u00e9 Soda 4 Pack",
+    "brand": "Nestl\u00e9",
+    "price": 9.68,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "E4",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Organic",
+      "Cruelty-Free"
+    ],
+    "description": "Nestl\u00e9 Soda 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "JJZQQN8T",
+      "D2KV5TB2",
+      "48UHL1I0"
+    ]
+  },
+  {
+    "id": "Z0GWVK8F",
+    "name": "Colgate Milk 2 Pack",
+    "brand": "Colgate",
+    "price": 19.58,
+    "salePrice": 10.29,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "E2",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Gluten-Free"
+    ],
+    "description": "Colgate Milk 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KN7BO9GG",
+      "0XT8KCDG",
+      "D2KV5TB2"
+    ]
+  },
+  {
+    "id": "6YM2APUX",
+    "name": "Colgate Shampoo 2 Pack",
+    "brand": "Colgate",
+    "price": 10.61,
+    "salePrice": null,
+    "categoryPath": "Grocery > Personal Care > Shampoo",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Shampoo",
+    "aisle": "A3",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Vegan"
+    ],
+    "description": "Colgate Shampoo 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "ARQEJK29",
+      "KFEGK9WE",
+      "R6YLSQKQ"
+    ]
+  },
+  {
+    "id": "O833VZGC",
+    "name": "Tide Ice Cream 2 Pack",
+    "brand": "Tide",
+    "price": 9.23,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "C3",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Tide Ice Cream 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "YAXOR0U4",
+      "XL2W9S9W",
+      "KFEGK9WE"
+    ]
+  },
+  {
+    "id": "F0SHJZJF",
+    "name": "Tide Chips 2 Pack",
+    "brand": "Tide",
+    "price": 7.05,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "A5",
+    "isEcoFriendly": false,
+    "ecoScore": "C",
+    "tags": [
+      "Non-GMO",
+      "Gluten-Free",
+      "Organic"
+    ],
+    "description": "Tide Chips 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "RWYIH89E",
+      "26SKLN2S",
+      "48UHL1I0"
+    ]
+  },
+  {
+    "id": "LXGQJVHL",
+    "name": "Colgate Chicken 5 Pack",
+    "brand": "Colgate",
+    "price": 27.6,
+    "salePrice": null,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "B1",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Organic",
+      "Cruelty-Free"
+    ],
+    "description": "Colgate Chicken 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "KFEGK9WE",
+      "CPRLOXW2"
+    ]
+  },
+  {
+    "id": "5N8VZF21",
+    "name": "Nestl\u00e9 Cleaner 2 Pack",
+    "brand": "Nestl\u00e9",
+    "price": 25.54,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "B4",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Recyclable"
+    ],
+    "description": "Nestl\u00e9 Cleaner 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "XWSFWGWO",
+      "W49AR395",
+      "OAXSYDZ5"
+    ]
+  },
+  {
+    "id": "JJISKB2H",
+    "name": "Lays Chips 2 Pack",
+    "brand": "Lays",
+    "price": 15.9,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Cruelty-Free",
+      "Recyclable"
+    ],
+    "description": "Lays Chips 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "Z0GWVK8F",
+      "BED7ZGBQ",
+      "6XY6UERQ"
+    ]
+  },
+  {
+    "id": "D2KV5TB2",
+    "name": "Tide Chicken 4 Pack",
+    "brand": "Tide",
+    "price": 33.33,
+    "salePrice": 7.56,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "A4",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Gluten-Free",
+      "Cruelty-Free"
+    ],
+    "description": "Tide Chicken 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "8P8GNTG9",
+      "JJZQQN8T",
+      "TUZ5YCB8"
+    ]
+  },
+  {
+    "id": "0Y4JBR22",
+    "name": "Heinz Ice Cream 5 Pack",
+    "brand": "Heinz",
+    "price": 22.67,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "A4",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Non-GMO",
+      "Organic"
+    ],
+    "description": "Heinz Ice Cream 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "OAXSYDZ5",
+      "NQDXREGG",
+      "RWH0Q275"
+    ]
+  },
+  {
+    "id": "P4Y67BPH",
+    "name": "Colgate Chips 4 Pack",
+    "brand": "Colgate",
+    "price": 8.88,
+    "salePrice": null,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "D3",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Colgate Chips 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "0XWVWUPF",
+      "DZKQX0OC",
+      "7TUHQ854"
+    ]
+  },
+  {
+    "id": "A53T1ZPJ",
+    "name": "Coca-Cola Fruits 5 Pack",
+    "brand": "Coca-Cola",
+    "price": 28.3,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "C1",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Recyclable",
+      "Cruelty-Free",
+      "Vegan"
+    ],
+    "description": "Coca-Cola Fruits 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "51DV4TO0",
+      "5N8VZF21",
+      "JU74T5XS"
+    ]
+  },
+  {
+    "id": "OAXSYDZ5",
+    "name": "Coca-Cola Fruits 4 Pack",
+    "brand": "Coca-Cola",
+    "price": 24.52,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "D1",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Coca-Cola Fruits 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "YAXOR0U4",
+      "GJLDAQGT",
+      "7EOUZSF0"
+    ]
+  },
+  {
+    "id": "W49AR395",
+    "name": "Lays Milk 2 Pack",
+    "brand": "Lays",
+    "price": 21.15,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "C2",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Recyclable",
+      "Non-GMO"
+    ],
+    "description": "Lays Milk 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "BJDZUG3Z",
+      "MCA1U06N",
+      "E7E8Z3QO"
+    ]
+  },
+  {
+    "id": "25UG1O07",
+    "name": "Heinz Soda 1 Pack",
+    "brand": "Heinz",
+    "price": 14.86,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "C5",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Gluten-Free",
+      "Cruelty-Free"
+    ],
+    "description": "Heinz Soda 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "NQDXREGG",
+      "CPRLOXW2",
+      "59N068DU"
+    ]
+  },
+  {
+    "id": "824IP9OV",
+    "name": "Heinz Fruits 4 Pack",
+    "brand": "Heinz",
+    "price": 47.15,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "E2",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Gluten-Free",
+      "Organic"
+    ],
+    "description": "Heinz Fruits 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "QU5E8BKR",
+      "P4Y67BPH",
+      "3M8VDDKQ"
+    ]
+  },
+  {
+    "id": "26SKLN2S",
+    "name": "Tide Soda 3 Pack",
+    "brand": "Tide",
+    "price": 18.45,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "D1",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Recyclable",
+      "Vegan",
+      "Non-GMO"
+    ],
+    "description": "Tide Soda 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "MCA1U06N",
+      "NQDXREGG",
+      "YAXOR0U4"
+    ]
+  },
+  {
+    "id": "BED7ZGBQ",
+    "name": "Tide Ice Cream 4 Pack",
+    "brand": "Tide",
+    "price": 44.96,
+    "salePrice": null,
+    "categoryPath": "Grocery > Frozen > Ice Cream",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Ice+Cream",
+    "aisle": "C1",
+    "isEcoFriendly": false,
+    "ecoScore": "A+",
+    "tags": [
+      "Cruelty-Free",
+      "Non-GMO",
+      "Gluten-Free"
+    ],
+    "description": "Tide Ice Cream 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "SUT9T9IY",
+      "JJZQQN8T",
+      "0Y4JBR22"
+    ]
+  },
+  {
+    "id": "JU3T93GW",
+    "name": "Heinz Fruits 5 Pack",
+    "brand": "Heinz",
+    "price": 9.13,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "E4",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Vegan",
+      "Organic",
+      "Cruelty-Free"
+    ],
+    "description": "Heinz Fruits 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "6LF7IZ65",
+      "JJZQQN8T",
+      "KN7BO9GG"
+    ]
+  },
+  {
+    "id": "0XT8KCDG",
+    "name": "Ben & Jerry's Soda 2 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 6.88,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Ben & Jerry's Soda 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "CPRLOXW2",
+      "Z0GWVK8F",
+      "MCA1U06N"
+    ]
+  },
+  {
+    "id": "ED5H45XB",
+    "name": "Lays Chicken 3 Pack",
+    "brand": "Lays",
+    "price": 27.94,
+    "salePrice": 12.45,
+    "categoryPath": "Grocery > Meat & Seafood > Chicken",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chicken",
+    "aisle": "A5",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Cruelty-Free"
+    ],
+    "description": "Lays Chicken 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "9JVGZ0NS",
+      "JJZQQN8T",
+      "0XT8KCDG"
+    ]
+  },
+  {
+    "id": "59N068DU",
+    "name": "Heinz Cleaner 4 Pack",
+    "brand": "Heinz",
+    "price": 37.6,
+    "salePrice": null,
+    "categoryPath": "Grocery > Household > Cleaners",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Cleaner",
+    "aisle": "E2",
+    "isEcoFriendly": false,
+    "ecoScore": "D",
+    "tags": [
+      "Cruelty-Free",
+      "Recyclable"
+    ],
+    "description": "Heinz Cleaner 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "CE0I6AGO",
+      "JU3T93GW"
+    ]
+  },
+  {
+    "id": "YOA7DZCM",
+    "name": "Ben & Jerry's Fruits 1 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 42.76,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "A",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Ben & Jerry's Fruits 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "RRHYREID",
+      "TXTFOWIH",
+      "LXGQJVHL"
+    ]
+  },
+  {
+    "id": "FHEJ3050",
+    "name": "Tide Fruits 4 Pack",
+    "brand": "Tide",
+    "price": 46.01,
+    "salePrice": null,
+    "categoryPath": "Grocery > Produce > Fruits",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Fruits",
+    "aisle": "A2",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Gluten-Free",
+      "Non-GMO",
+      "Organic"
+    ],
+    "description": "Tide Fruits 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "0INB7205",
+      "8P8GNTG9",
+      "TXTFOWIH"
+    ]
+  },
+  {
+    "id": "RRHYREID",
+    "name": "Lays Milk 2 Pack",
+    "brand": "Lays",
+    "price": 46.69,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "D5",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Lays Milk 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "FHEJ3050",
+      "UQ2D7L9N",
+      "JJISKB2H"
+    ]
+  },
+  {
+    "id": "M644UQS9",
+    "name": "Dove Soda 2 Pack",
+    "brand": "Dove",
+    "price": 6.08,
+    "salePrice": 2.66,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "E3",
+    "isEcoFriendly": true,
+    "ecoScore": "D",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Dove Soda 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "BED7ZGBQ",
+      "JU3T93GW",
+      "ED5H45XB"
+    ]
+  },
+  {
+    "id": "9W3V9STO",
+    "name": "Lays Soda 4 Pack",
+    "brand": "Lays",
+    "price": 12.17,
+    "salePrice": null,
+    "categoryPath": "Grocery > Drinks > Soft Drinks",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Soda",
+    "aisle": "C3",
+    "isEcoFriendly": false,
+    "ecoScore": "B",
+    "tags": [
+      "Cruelty-Free",
+      "Non-GMO"
+    ],
+    "description": "Lays Soda 4 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KN7BO9GG",
+      "0XIN93HL",
+      "H5BQNGMY"
+    ]
+  },
+  {
+    "id": "NQDXREGG",
+    "name": "Lays Milk 5 Pack",
+    "brand": "Lays",
+    "price": 20.74,
+    "salePrice": null,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "A5",
+    "isEcoFriendly": true,
+    "ecoScore": "B",
+    "tags": [
+      "Gluten-Free"
+    ],
+    "description": "Lays Milk 5 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "QU5E8BKR",
+      "KBTY2BZG",
+      "1ARZIAI8"
+    ]
+  },
+  {
+    "id": "ODZASMVB",
+    "name": "Colgate Chips 1 Pack",
+    "brand": "Colgate",
+    "price": 10.56,
+    "salePrice": 7.95,
+    "categoryPath": "Grocery > Snacks > Chips",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Chips",
+    "aisle": "B1",
+    "isEcoFriendly": true,
+    "ecoScore": "A+",
+    "tags": [
+      "Non-GMO",
+      "Organic",
+      "Recyclable"
+    ],
+    "description": "Colgate Chips 1 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "TUZ5YCB8",
+      "D2KV5TB2",
+      "HNQSZ6HV"
+    ]
+  },
+  {
+    "id": "DZKQX0OC",
+    "name": "Coca-Cola Bread 3 Pack",
+    "brand": "Coca-Cola",
+    "price": 34.41,
+    "salePrice": null,
+    "categoryPath": "Grocery > Bakery > Bread",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Bread",
+    "aisle": "B4",
+    "isEcoFriendly": true,
+    "ecoScore": "C",
+    "tags": [
+      "Non-GMO"
+    ],
+    "description": "Coca-Cola Bread 3 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "7EOUZSF0",
+      "E7E8Z3QO",
+      "QO0ZJJFK"
+    ]
+  },
+  {
+    "id": "7KUUGKAP",
+    "name": "Ben & Jerry's Milk 2 Pack",
+    "brand": "Ben & Jerry's",
+    "price": 8.48,
+    "salePrice": 1.27,
+    "categoryPath": "Grocery > Dairy > Milk",
+    "imageUrl": "https://dummyimage.com/600x400/cccccc/000000&text=Milk",
+    "aisle": "C4",
+    "isEcoFriendly": false,
+    "ecoScore": "A",
+    "tags": [
+      "Organic"
+    ],
+    "description": "Ben & Jerry's Milk 2 Pack - high quality and value for your everyday needs.",
+    "relatedProductIds": [
+      "KFEGK9WE",
+      "ED5H45XB",
+      "XFJCF00L"
+    ]
+  }
+]

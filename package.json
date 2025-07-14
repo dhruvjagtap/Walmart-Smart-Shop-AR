@@ -1,0 +1,60 @@
+{
+  "name": "SmartShop",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native-firebase/app": "^22.4.0",
+    "@react-native-firebase/auth": "^22.4.0",
+    "@react-native-firebase/firestore": "^22.4.0",
+    "@react-native-picker/picker": "^2.11.1",
+    "@react-native/new-app-screen": "^0.80.1",
+    "@react-navigation/bottom-tabs": "^7.4.2",
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/stack": "^7.4.2",
+    "create-react-class": "^15.7.0",
+    "fbjs": "^3.0.5",
+    "formik": "^2.4.6",
+    "react": "^19.1.0",
+    "react-native": "^0.80.1",
+    "react-native-gesture-handler": "^2.27.1",
+    "react-native-haptic-feedback": "^2.3.3",
+    "react-native-paper": "^5.14.5",
+    "react-native-reanimated": "^3.18.0",
+    "react-native-safe-area-context": "^5.5.2",
+    "react-native-screens": "^4.11.1",
+    "react-native-vector-icons": "^10.2.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.3",
+    "@babel/runtime": "^7.25.0",
+    "@react-native-community/cli": "19.0.0",
+    "@react-native-community/cli-platform-android": "19.0.0",
+    "@react-native-community/cli-platform-ios": "19.0.0",
+    "@react-native/babel-preset": "0.80.1",
+    "@react-native/eslint-config": "0.80.1",
+    "@react-native/metro-config": "0.80.1",
+    "@react-native/typescript-config": "0.80.1",
+    "@types/jest": "^29.5.13",
+    "@types/react": "^19.1.0",
+    "@types/react-native-vector-icons": "^6.4.18",
+    "@types/react-test-renderer": "^19.1.0",
+    "eslint": "^8.19.0",
+    "jest": "^29.6.3",
+    "prettier": "2.8.8",
+    "react-test-renderer": "19.1.0",
+    "typescript": "5.0.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
