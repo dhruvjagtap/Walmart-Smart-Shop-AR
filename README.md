@@ -136,13 +136,9 @@ _Coming soon… (Figma, mockups, and AR preview still in progress)_
 
 ---
 
-## Team SmartShop
+## Auhor
 
 - [Dhruv Jagtap](https://www.linkedin.com/in/dhruv-jagtap-27486928a/) – React Native Developer, UI/UX Contributor (Firebase, Shopping Flow Design)
-
-- [Krushna Sonar](https://www.linkedin.com/in/krushna-sonar-3b5423279/) – AR & Voice Integration (ARKit, Google Speech)
-
-- [Yashraj Kusale](https://www.linkedin.com/in/yashraj-kusale-731447289/) – AI/ML Developer (Recommendations, TensorFlow Lite)
 
 ---
 
